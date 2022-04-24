@@ -23,17 +23,6 @@
               </div>
             </div>
           </div>
-          <!-- <div class="card-body">
-          <img :src="article.img" alt="" />
-          <h5 class="card-title">{{ article.title }}</h5>
-          <p class="card-text">
-            {{ article.content }}
-          </p>
-          <a href="#" class="btn btn-primary" @click="$router.go(-1)"
-            >Kembali
-          </a>
-        </div>
-        <div class="card-footer text-muted">2 days ago</div> -->
         </div>
       </div>
     </center>
